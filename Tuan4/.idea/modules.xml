@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Try_Catch_Basis/Bai1/Bai1.iml" filepath="$PROJECT_DIR$/Try_Catch_Basis/Bai1/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Try_Catch_Basis/Bai2/Bai2.iml" filepath="$PROJECT_DIR$/Try_Catch_Basis/Bai2/Bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Try_Catch_Basis/Bai3_Finally/Bai3_Finally.iml" filepath="$PROJECT_DIR$/Try_Catch_Basis/Bai3_Finally/Bai3_Finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Custom_Exception/Custom_Exception.iml" filepath="$PROJECT_DIR$/Exception/Custom_Exception/Custom_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/InvalidAge/InvalidAge.iml" filepath="$PROJECT_DIR$/Exception/InvalidAge/InvalidAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/InvalidAmount/InvalidAmount.iml" filepath="$PROJECT_DIR$/Exception/InvalidAmount/InvalidAmount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Invalid_Login/Invalid_Login.iml" filepath="$PROJECT_DIR$/Exception/Invalid_Login/Invalid_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memory/Memory.iml" filepath="$PROJECT_DIR$/Memory/Memory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Heap/Stack_Heap.iml" filepath="$PROJECT_DIR$/Stack_Heap/Stack_Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Try_Catch_Basis/Try_Catch_Basis.iml" filepath="$PROJECT_DIR$/Try_Catch_Basis/Try_Catch_Basis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tuan4.iml" filepath="$PROJECT_DIR$/Tuan4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Heap/equals_hashcode/equals_hashcode.iml" filepath="$PROJECT_DIR$/Stack_Heap/equals_hashcode/equals_hashcode.iml" />
+    </modules>
+  </component>
+</project>

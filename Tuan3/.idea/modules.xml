@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/List/ArrList_LinkList/ArrList_LinkList.iml" filepath="$PROJECT_DIR$/BTTuan2/List/ArrList_LinkList/ArrList_LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/List/ArrayList1/ArrayList1.iml" filepath="$PROJECT_DIR$/BTTuan2/List/ArrayList1/ArrayList1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/List/ArrayList2/ArrayList2.iml" filepath="$PROJECT_DIR$/BTTuan2/List/ArrayList2/ArrayList2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan1/OOP1/B1/B1.iml" filepath="$PROJECT_DIR$/BTTuan1/OOP1/B1/B1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan1/OOP1/B2/B2.iml" filepath="$PROJECT_DIR$/BTTuan1/OOP1/B2/B2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan1/OOP1/B3/B3.iml" filepath="$PROJECT_DIR$/BTTuan1/OOP1/B3/B3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan1/OOP1/B4/B4.iml" filepath="$PROJECT_DIR$/BTTuan1/OOP1/B4/B4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan1/OOP1/B5/B5.iml" filepath="$PROJECT_DIR$/BTTuan1/OOP1/B5/B5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan1/BTTuan1.iml" filepath="$PROJECT_DIR$/BTTuan1/BTTuan1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/BTTuan2.iml" filepath="$PROJECT_DIR$/BTTuan2/BTTuan2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Bai1/Bai1.iml" filepath="$PROJECT_DIR$/OOP/Bai1/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Bai2/Bai2.iml" filepath="$PROJECT_DIR$/OOP/Bai2/Bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Bai3/Bai3.iml" filepath="$PROJECT_DIR$/OOP/Bai3/Bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Set/HashSet_Object/HashSet_Object.iml" filepath="$PROJECT_DIR$/BTTuan2/Set/HashSet_Object/HashSet_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/List/List.iml" filepath="$PROJECT_DIR$/BTTuan2/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Map/List_Map/List_Map.iml" filepath="$PROJECT_DIR$/BTTuan2/Map/List_Map/List_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Map/Map.iml" filepath="$PROJECT_DIR$/BTTuan2/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Map/Map1/Map1.iml" filepath="$PROJECT_DIR$/BTTuan2/Map/Map1/Map1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Map/Map2/Map2.iml" filepath="$PROJECT_DIR$/BTTuan2/Map/Map2/Map2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Map/Map_List_QlySinhVien/Map_List_QlySinhVien.iml" filepath="$PROJECT_DIR$/BTTuan2/Map/Map_List_QlySinhVien/Map_List_QlySinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan1/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/BTTuan1/OOP1/OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Set/Set.iml" filepath="$PROJECT_DIR$/BTTuan2/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Set/Set1/Set1.iml" filepath="$PROJECT_DIR$/BTTuan2/Set/Set1/Set1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTuan2/Set/Set2/Set2.iml" filepath="$PROJECT_DIR$/BTTuan2/Set/Set2/Set2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tuan3.iml" filepath="$PROJECT_DIR$/Tuan3.iml" />
+    </modules>
+  </component>
+</project>
