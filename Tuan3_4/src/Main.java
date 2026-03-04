@@ -67,7 +67,11 @@ public class Main {
 
             } catch (Exception e) {
                 System.out.println("Lỗi: " + e.getMessage());
+
             }
         }
     }
 }
+//fucntionA()
+// i =1
+//
