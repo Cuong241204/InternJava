@@ -3,7 +3,25 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda2/Lambda2.iml" filepath="$PROJECT_DIR$/Lambda2/Lambda2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_nc/Stream_nc.iml" filepath="$PROJECT_DIR$/Stream_nc/Stream_nc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tuan5.iml" filepath="$PROJECT_DIR$/Tuan5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_nc/b12/b12.iml" filepath="$PROJECT_DIR$/Stream_nc/b12/b12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_nc/b13/b13.iml" filepath="$PROJECT_DIR$/Stream_nc/b13/b13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_nc/b14/b14.iml" filepath="$PROJECT_DIR$/Stream_nc/b14/b14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_nc/b15/b15.iml" filepath="$PROJECT_DIR$/Stream_nc/b15/b15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_nc/b16/b16.iml" filepath="$PROJECT_DIR$/Stream_nc/b16/b16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/b1_Optional/b1_Optional.iml" filepath="$PROJECT_DIR$/Optional/b1_Optional/b1_Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda2/b1_predicate/b1_predicate.iml" filepath="$PROJECT_DIR$/Lambda2/b1_predicate/b1_predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/b1_stream/b1_stream.iml" filepath="$PROJECT_DIR$/Stream/b1_stream/b1_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda2/b2_bifunction/b2_bifunction.iml" filepath="$PROJECT_DIR$/Lambda2/b2_bifunction/b2_bifunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/b2_stream/b2_stream.iml" filepath="$PROJECT_DIR$/Stream/b2_stream/b2_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda2/b3_chuHoa/b3_chuHoa.iml" filepath="$PROJECT_DIR$/Lambda2/b3_chuHoa/b3_chuHoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/b3_stream/b3_stream.iml" filepath="$PROJECT_DIR$/Stream/b3_stream/b3_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/b4_stream/b4_stream.iml" filepath="$PROJECT_DIR$/Stream/b4_stream/b4_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/b5_stream/b5_stream.iml" filepath="$PROJECT_DIR$/Stream/b5_stream/b5_stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/bai1/bai1.iml" filepath="$PROJECT_DIR$/Lambda/bai1/bai1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/bai10/bai10.iml" filepath="$PROJECT_DIR$/Lambda/bai10/bai10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/bai2/bai2.iml" filepath="$PROJECT_DIR$/Lambda/bai2/bai2.iml" />
